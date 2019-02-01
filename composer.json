@@ -27,12 +27,12 @@
     ],
     "autoload": {
         "psr-4" : {
-            "Jetiradoro\\SessionManager\\" : "src"
+            "Jetiradoro\\EncryptModel\\" : "src"
         }
     },
     "autoload-dev":{
         "psr-4":{
-            "Jetiradoro\\SessionManager\\Test\\": "tests"
+            "Jetiradoro\\EncryptModel\\Test\\": "tests"
         }
     },
     "config":{
